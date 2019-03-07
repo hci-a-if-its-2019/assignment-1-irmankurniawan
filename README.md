@@ -169,10 +169,18 @@ itu keanehannya
 ```
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![artifact0](/img/artifact0.png)
+![artifact1](/img/artifact1.png)
+![artifact2](/img/artifact2.png)
+![artifact3](/img/artifact3.png)
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+
 ### Cultural Model
-![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
+
+
 ## Do's and Don't's
-Do's and Don't's
+### Do's
+- 
+### Don't's
+- 
+- 
