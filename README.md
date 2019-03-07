@@ -174,6 +174,7 @@ itu keanehannya
 ![artifact2](/img/artifact2.png)
 ![artifact3](/img/artifact3.png)
 ### Flow Model
+![flowmodel](/img/flowmodel.png)
 
 ### Cultural Model
 ![culturalmodel](/img/cultmodel.png)
