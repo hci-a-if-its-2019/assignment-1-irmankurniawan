@@ -176,7 +176,7 @@ itu keanehannya
 ### Flow Model
 
 ### Cultural Model
-
+![culturalmodel](/img/cultmodel.png)
 
 ## Do's and Don't's
 ### Do's
