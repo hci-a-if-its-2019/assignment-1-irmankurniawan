@@ -180,7 +180,8 @@ itu keanehannya
 
 ## Do's and Don't's
 ### Do's
-- 
+- reduce height and add a scrollbar to the element that wraps the thumbnail
+- Use left alignment for unordered list
+- give the next/previous button on the product page
 ### Don't's
-- 
-- 
+- avoid text sizes that are too small
