@@ -186,3 +186,11 @@ itu keanehannya
 - give the next/previous button on the product page
 ### Don't's
 - avoid text sizes that are too small
+
+# Remarks
+> Overall, pretty well done. Thanks for completing this assignment according to the requirements.
+> I was surprised you wrote quite a lot of instructions (I think you wrote instruction the most among students!). However, I felt difficult to track the designated instructions inside the Transcript.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 9                | 9               | 87                 | 80,5       | 85,7  |
